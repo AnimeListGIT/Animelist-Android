@@ -1,3 +1,4 @@
 {
+  "domain": "https://api.alapp.click/public/graphql",
   "versionName":"0.1.5-beta"
 }
